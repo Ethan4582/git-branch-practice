@@ -1,3 +1,3 @@
+feature 1
 
-conflcit 1 
->>>>>>> conflict
+q
